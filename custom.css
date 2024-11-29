@@ -1,0 +1,19 @@
+#top-bar {
+  background-color: #082a4a;
+}
+
+#hero .position-relative > label {
+  top: -25%;
+}
+
+#intro-form {
+  margin-top: -60px;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: white;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
